@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftechnology-cartoon&psig=AOvVaw250fBvgocZKsmm1TDTrL9g&ust=1755193913644000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMj_v4qtiI8DFQAAAAAdAAAAABAE"alt="">
 
 - 🌱 I’m currently learning **JAVA ,Frontened**
 
