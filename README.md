@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftechnology-cartoon&psig=AOvVaw250fBvgocZKsmm1TDTrL9g&ust=1755193913644000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMj_v4qtiI8DFQAAAAAdAAAAABAE"alt="">
+<img src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif"alt="">
 
 - 🌱 I’m currently learning **JAVA ,Frontened**
 
